@@ -1,6 +1,0 @@
-File name: File1.txt Matching score is: 100.0% 
-File name: File2.txt Matching score is: 50.0% 
-File name: File3.txt Matching score is: 16.666666666666664% 
-File name: File4.txt Matching score is: 14.285714285714285% 
-File name: File5.txt Matching score is: 9.375% 
-File name: File6.txt Matching score is: 100.0% 
